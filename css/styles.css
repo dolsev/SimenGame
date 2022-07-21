@@ -1,0 +1,59 @@
+h1 {
+  color: #ffd700;
+  font-weight: 900;
+  font-size: 2.8rem;
+  text-align: center;
+}
+header {
+  padding: 1rem;
+}
+
+body {
+  background-color: #022c43;
+}
+
+br {
+  height: 3rem;
+}
+.container-fluid {
+  text-align: center;
+}
+
+.billy {
+  background-image: url(/images/billy.jpg);
+}
+.forWhat {
+  background-image: url(/images/forWhat.jpg);
+}
+.sorry {
+  background-image: url(/images/sorry.jpg);
+}
+.van {
+  background-image: url(/images/van.jpg);
+}
+
+button {
+  height: 8rem;
+  width: 8rem;
+  background-size: cover;
+  border: 1px solid #115173;
+  margin: 0.2rem;
+  padding: 0;
+}
+.pressed {
+    box-shadow:1px 1px 2px #ffd700, -1px -1px 2px #ffd700;
+}
+a {
+    color: #ffd700;
+    font-weight: 900;
+    font-size: 2.8rem;
+    text-align: center;
+    text-decoration: none;
+}
+a:hover{
+    color: #ffea76;
+}
+
+.bg-loser{
+    background-color: rgb(168, 19, 19);
+}
