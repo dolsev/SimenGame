@@ -3,7 +3,7 @@ var gamePattern = [];
 var userClickedPattern = [];
 var level = 0;
 
-$(document).keydown(function () {
+$("h1").click(function () {
 if (level===0){
   nextSequence();}
 });
