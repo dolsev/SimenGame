@@ -20,16 +20,16 @@ br {
 }
 
 .billy {
-  background-image: url(/images/billy.jpg);
+  background-image: url(SimenGame/images/billy.jpg);
 }
 .forWhat {
-  background-image: url(/images/forWhat.jpg);
+  background-image: url(SimenGame/images/forWhat.jpg);
 }
 .sorry {
-  background-image: url(/images/sorry.jpg);
+  background-image: url(SimenGame/images/sorry.jpg);
 }
 .van {
-  background-image: url(/images/van.jpg);
+  background-image: url(SimenGame/images/van.jpg);
 }
 
 button {
